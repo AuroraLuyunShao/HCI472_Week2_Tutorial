@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg-dark {
+  background-color: #262a4f !important;
+}
+
+.c-container {
+  padding: 5%;
+}
+
+.caption-edit {
+  background-color: rgb(100, 100, 100, 0.5);
+  color: white;
+}
+
+.text-container {
+  max-width: 80%;
+  margin-bottom: 50px;
+}
+
+.footer {
+  background-color: #262a4f;
+  height: auto;
+  color: #8e8e8e;
+  font-size: 0.8 rem;
+  text-align: center;
+  padding: 50px;
+}
+
+.btn-primary {
+  background-color: transparent;
+  color: #202529;
+  border-color: #ff4e00;
+
+}
+
+.btn-primary:hover {
+  background-color: #ff4e00;
+  color: #ffffff;
+  border-color: #ff4e00;
+
+}
